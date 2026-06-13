@@ -39,4 +39,4 @@ Ten independent, reproducible research frameworks — ~33,000 lines of Python, ~
 
 ---
 
-<sub>This README is a directory of my work. GitHub limits pinned repos to 6 — this page links everything.</sub>
+<sub>This is a curated list of my featured work. GitHub limits pinned repos to 6, so this profile serves as the full directory.</sub>
