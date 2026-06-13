@@ -39,11 +39,4 @@ Ten independent, reproducible research frameworks — ~33,000 lines of Python, ~
 
 ---
 
-## NASA L'SPACE
-
-- **Team 19: Ad Astra** (2026) — Lead Systems Engineer on 18-member MCA team. Lunar PSR volatile-prospecting rover: CDH subsystem ownership, 19-interface ICD, N² diagram, thermal trade studies. MCR through PDR.
-- **Team 10: Forged in Orbit** (2025) — Lead Systems Engineer on 12-member NPWEE team. Cold-welding ISRU technology proposal, vacuum-weld parameter characterization, L-MAP-FI multi-agent pathfinding framework.
-
----
-
 <sub>This README is a directory of my work. GitHub limits pinned repos to 6 — this page links everything.</sub>
