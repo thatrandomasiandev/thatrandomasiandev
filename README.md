@@ -33,6 +33,7 @@ Ten independent, reproducible research frameworks — ~33,000 lines of Python, ~
 
 | Project | Description | Repo |
 |---------|-------------|------|
+| **SpaAIder** | Local-first multi-agent agentic runtime — TypeScript orchestration plane, Python FastAPI memory substrate, 135-agent taxonomy, episodic-semantic-vector memory, dependency-aware parallel scheduling | [`SpaAIder`](https://github.com/thatrandomasiandev/SpaAIder) |
 | **URC Autonomy Stack** | ROS 2 (Humble) full autonomy for University Rover Challenge 2026 — 7-target mission orchestrator, EKF sensor fusion, GNSS waypoint nav, ArUco visual servoing, YOLO detection | [`urc-cv`](https://github.com/thatrandomasiandev/urc-cv) |
 | **Curriculum Vitae** | LaTeX CV (auto-compiled, 13 pages) | [`curriculum-vitae`](https://github.com/thatrandomasiandev/curriculum-vitae) |
 
