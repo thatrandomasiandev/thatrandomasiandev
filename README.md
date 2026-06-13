@@ -29,22 +29,12 @@ Ten independent, reproducible research frameworks — ~33,000 lines of Python, ~
 
 ---
 
-## Robotics & Systems
+## Highlighted Projects
 
 | Project | Description | Repo |
 |---------|-------------|------|
 | **URC Autonomy Stack** | ROS 2 (Humble) full autonomy for University Rover Challenge 2026 — 7-target mission orchestrator, EKF sensor fusion, GNSS waypoint nav, ArUco visual servoing, YOLO detection | [`urc-cv`](https://github.com/thatrandomasiandev/urc-cv) |
-| **USC Racing (FSAE)** | Embedded telemetry, CAN bus data logging, vehicle dynamics simulation | [`USC-Racing-config`](https://github.com/thatrandomasiandev/USC-Racing-config) |
-
----
-
-## Other Projects
-
-| Project | Description | Repo |
-|---------|-------------|------|
 | **Curriculum Vitae** | LaTeX CV (auto-compiled, 13 pages) | [`curriculum-vitae`](https://github.com/thatrandomasiandev/curriculum-vitae) |
-| **EdgeAdapt** | Edge-adaptive ML | [`EdgeAdapt`](https://github.com/thatrandomasiandev/EdgeAdapt) |
-| **Portfolio Website** | Next.js personal site | [`web`](https://github.com/thatrandomasiandev/web) |
 
 ---
 
