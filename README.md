@@ -5,7 +5,7 @@
 CS + ML research + robotics + aerospace systems engineering. I build things that need to work under real constraints — distribution shift, sparse data, deployment-limited compute, and permanently shadowed lunar craters.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jterranovacs-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jterranovacs)
-[![Website](https://img.shields.io/badge/Portfolio-joshuaterranova.dev-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://joshuaterranova.dev)
+[![Website](https://img.shields.io/badge/Portfolio-www.jcompsci.com-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://joshuaterranova.dev)
 [![CV](https://img.shields.io/badge/CV-LaTeX-990000?style=flat-square&logo=latex&logoColor=white)](https://github.com/thatrandomasiandev/curriculum-vitae)
 
 ---
