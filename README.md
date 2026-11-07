@@ -1,12 +1,23 @@
 # Joshua Terranova
 
-**B.Sc. Computer Science** · University of Southern California, 2027
+**B.Sc. Computer Science** · University of Southern California, Expected May 2028
 
-CS + ML research + robotics + aerospace systems engineering. I build things that need to work under real constraints — distribution shift, sparse data, deployment-limited compute, and permanently shadowed lunar craters.
+Undergraduate researcher in USC LiraLab (Prof. Erdem Bıyık) and with Prof. Jiapeng Zhang; Lead Systems Engineer on NASA L'SPACE MCA Team 19 and NPWEE Team 10; autonomy software for University Rover Challenge 2026. I work where ML, robotics, and systems meet real constraints: distribution shift, sparse preference feedback, exact verified reuse, and permanently shadowed lunar operations.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jterranovacs-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jterranovacs)
 [![Website](https://img.shields.io/badge/Portfolio-jcompsci.com-2563EB?style=flat-square&logo=vercel&logoColor=white)](https://www.jcompsci.com)
 [![CV](https://img.shields.io/badge/CV-LaTeX-990000?style=flat-square&logo=latex&logoColor=white)](https://github.com/thatrandomasiandev/curriculum-vitae)
+[![arXiv](https://img.shields.io/badge/arXiv-2611.02182-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2611.02182)
+
+---
+
+## Research
+
+| Work | Status | Links |
+|------|--------|-------|
+| **TARE** — Tool Annotation Reuse, Exact. Black-box pin-and-replay across reference database releases; byte-identical to a full stock rerun or refuse. First author with Prof. Jiapeng Zhang. | Preprint · targeting USENIX OSDI '27 | [`tare`](https://github.com/thatrandomasiandev/tare) · [arXiv:2611.02182](https://arxiv.org/abs/2611.02182) · [project site](https://sites.google.com/usc.edu/tare/home) |
+| **LiraLab** — Few-shot latent preference adaptation / PEBBLE Experiment 1 under noisy teachers | Active undergraduate research | [`liralab`](https://github.com/thatrandomasiandev/liralab) · [`liralab-experiment-1`](https://github.com/thatrandomasiandev/liralab-experiment-1) |
+| **Visual Compounding Problem** — Closed-loop vision stacks that pass isolated tests and fail when errors couple | Independent benchmark + manuscript prep | [`visual-robot-learning`](https://github.com/thatrandomasiandev/visual-robot-learning) |
 
 ---
 
@@ -33,10 +44,13 @@ Ten independent, reproducible research frameworks — ~33,000 lines of Python, ~
 
 | Project | Description | Repo |
 |---------|-------------|------|
-| **SpaAIder** | Local-first multi-agent agentic runtime — TypeScript orchestration plane, Python FastAPI memory substrate, 135-agent taxonomy, episodic-semantic-vector memory, dependency-aware parallel scheduling | [`SpaAIder`](https://github.com/thatrandomasiandev/SpaAIder) |
-| **URC Autonomy Stack** | ROS 2 (Humble) full autonomy for University Rover Challenge 2026 — 7-target mission orchestrator, EKF sensor fusion, GNSS waypoint nav, ArUco visual servoing, YOLO detection | [`urc-cv`](https://github.com/thatrandomasiandev/urc-cv) |
-| **Curriculum Vitae** | LaTeX CV (auto-compiled, 13 pages) | [`curriculum-vitae`](https://github.com/thatrandomasiandev/curriculum-vitae) |
+| **TARE** | Exact incremental re-annotation wrapper for unmodified CLI tools (HMMER / Infernal bake-offs; refuse path for DIAMOND) | [`tare`](https://github.com/thatrandomasiandev/tare) |
+| **SpaAIder** | Local-first multi-agent runtime — TypeScript orchestration, Python FastAPI memory substrate, episodic–semantic–vector memory, dependency-aware parallel scheduling | [`SpaAIder`](https://github.com/thatrandomasiandev/SpaAIder) |
+| **URC Autonomy Stack** | ROS 2 (Humble) autonomy for University Rover Challenge 2026 — 7-target mission orchestrator, EKF fusion, GNSS waypoint nav, ArUco visual servoing, YOLO detection | [`urc-cv`](https://github.com/thatrandomasiandev/urc-cv) |
+| **ClinRad-Bench** | Clinical ML evaluation under prevalence shift (2% / 12% / 35%), calibration (ECE), selective prediction, bootstrap CIs | [`ClinRad-Bench`](https://github.com/thatrandomasiandev/ClinRad-Bench) |
+| **KumonScan** | Desk + QR attendance for Kumon centers (Neon Postgres, Math / Reading / Both session rules, timeapi.io clock) | [`KumonScan`](https://github.com/thatrandomasiandev/KumonScan) |
+| **Curriculum Vitae** | LaTeX academic CV (auto-compiled) | [`curriculum-vitae`](https://github.com/thatrandomasiandev/curriculum-vitae) |
 
 ---
 
-<sub>This is a curated list of my featured work. GitHub limits pinned repos to 6, so this profile serves as the full directory.</sub>
+<sub>Curated featured work. GitHub pins only six repos; this profile is the full directory.</sub>
